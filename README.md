@@ -1,4 +1,4 @@
-# Hi there i'm prasanna 👋
+# Hi there I'm prasanna 👋
 - 🌱 I’m currently learning ... **Front-end web development**
 - 📫 How to reach me: ... [twitter](https://twitter.com/PrasannaRames)
 - 😄 Pronouns: ... *He/Him*
