@@ -13,10 +13,9 @@
 
 ### Back End
 <div style="display:flex, flex-direction:row">
-<img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=expressdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img height="40"  alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="20"  alt="express" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
+<img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128@2x.png" alt="mongodb" width="40" height="40"/> 
 </div>
 
 ### Tools & Others  
