@@ -9,17 +9,17 @@
 
 ### Front End
 <div style="display:flex, flex-direction:row">
-<img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&logoColor=skyblue" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" />
 </div>
 
 ### Back End
 <div style="display:flex, flex-direction:row">
-<img height="40"  alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="20"  alt="express" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
-<img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128@2x.png" alt="mongodb" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node&logoColor=green" />
+<img src="https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb&logoColor=green" />
+<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ### Tools & Others  
