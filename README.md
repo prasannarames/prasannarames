@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, Im prasanna</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E62929&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E62929&center=true&vCenter=true&width=435&lines=Front-end+Developer;Full-stack+Developer" alt="Typing SVG" />
 </div>
 
 
