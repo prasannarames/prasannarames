@@ -1,5 +1,9 @@
 <h1 align="center">Hi👋, Im prasanna</h1>
-<h3 align="center">Frontend Developer</h3>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E62929&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer" alt="Typing SVG" />
+</div>
+
 
 ## Skills
 
@@ -53,7 +57,7 @@
 <!-- <a href="mailto:prasannaramesh98@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/email-F6F8FC?style=for-the-badge&logo=gmail&logoColor=red"> </a>  -->
 
 
-
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square"> -->
  
  
  
